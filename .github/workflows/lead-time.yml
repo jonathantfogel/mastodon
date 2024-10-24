@@ -1,3 +1,4 @@
-- uses: DeveloperMetrics/lead-time-for-changes@main
+- name: Lead time metric
+  uses: DeveloperMetrics/lead-time-for-changes@main
   with:
     workflows: 'CI'
